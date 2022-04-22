@@ -1,10 +1,9 @@
 ### Hi there 👋
 
+**You can connect me via** 
+📫 [linkedin](https://www.linkedin.com/in/nurullah-isik/) and [blog](https://nurullahisik.com)
 
-- 🔭 I’m currently working on php and nodejs
-- 🌱 I’m currently learning a lot of things
-- 👯 I’m looking to collaborate on NodeJS and React Native
-- 💬 Ask me about software
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/nurullah-isik/) and [blog](https://nurullahisik.com)
-- 😄 Pronouns: excited and happy
 
+| My Github Stats:            |  My Top Langs: |
+:-------------------------:|:-------------------------:
+![](https://github-readme-stats.vercel.app/api?username=nurullahisik&count_private=true&theme=swift&show_icons=true&hide=contribs,prs) |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nurullahisik&layout=compact&count_private=true&theme=swift&show_icons=true&hide=contribs,prs)
